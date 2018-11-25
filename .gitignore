@@ -1,0 +1,13 @@
+*.idea
+*.DS_Store
+*.iml
+target
+build
+output
+out
+.gradle
+dist
+node_modules
+*.log
+package-lock.json
+*.local
